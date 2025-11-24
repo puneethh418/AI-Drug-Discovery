@@ -1,0 +1,10 @@
+pandas
+numpy
+scikit-learn
+flask
+biopython
+tensorflow
+matplotlib
+seaborn
+rdkit
+py3Dmol
